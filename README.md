@@ -17,9 +17,9 @@
 
 
 ## :star2: About the Project
+<p>5 thousand lines! Text-based adventure game (Took 8 weeks to code)</p>
 
 ## :grey_question: FAQ
-
 
 - Why not an EXE?
 - BAT-to-EXE converters use mechanisms that malware creators also use, causing the EXE to be flagged by AntiVirus (Test EXE file flagged 17/72 antiviruses)
