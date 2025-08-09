@@ -27,6 +27,6 @@
 
 ## :handshake: Contact
 
-Arthur - - 0h345Y@proton.me
+Arthur - 0h345Y@proton.me
 
 Project Link: [https://github.com/circxit/Temple-of-Eldra](https://github.com/circxit/Temple-of-Eldra)
